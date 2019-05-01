@@ -1,4 +1,4 @@
-# RileyHarrison
+# Riley Harrison
 
 # Small C Shell Program
 C implementation of a Bash shell.  Demonstrates knowlege of multi process management.  Supports built in commands "cd", "exit", and "status". Input/output redirection supported as well as some signal handling.
